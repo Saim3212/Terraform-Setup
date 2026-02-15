@@ -14,8 +14,11 @@ Extraction is needed
 The Exe File should be extracted within the C drive and Path variables are to be set
 
 EXE FILE LOCATION
+
+
 <img width="819" height="233" alt="image" src="https://github.com/user-attachments/assets/2973a648-8100-4b1d-8ef2-b0edbc7d059e" />
 ENVIRONMENT VARIABLE SETTINGS
+
 
 <img width="880" height="829" alt="image" src="https://github.com/user-attachments/assets/d7f3b21c-df32-4ddb-8bc0-1c7d19080842" />
 
