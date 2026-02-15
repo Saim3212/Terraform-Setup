@@ -17,6 +17,7 @@ EXE FILE LOCATION
 
 
 <img width="819" height="233" alt="image" src="https://github.com/user-attachments/assets/2973a648-8100-4b1d-8ef2-b0edbc7d059e" />
+
 ENVIRONMENT VARIABLE SETTINGS
 
 
