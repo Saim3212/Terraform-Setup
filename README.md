@@ -23,4 +23,6 @@ Once set
 AWS CLI is needed to connect your AWS account within your local machine to integrate the above tools in synchornoy using CMD version may be checked
 <img width="922" height="615" alt="image" src="https://github.com/user-attachments/assets/98f90475-4338-449f-88ac-95418a1e08ad" />
 aws configure can  be used to log in the account 
-<img width="914" height="290" alt="image" src="https://github.com/user-attachments/assets/b0314838-cacd-4e75-9dc4-2bcf47387487" />
+
+<img width="507" height="116" alt="image" src="https://github.com/user-attachments/assets/13d3d6e6-d9c3-48e0-ba7e-1c70135b3f5d" />
+
